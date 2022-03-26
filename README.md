@@ -40,7 +40,9 @@ I created this website for a property brokerage company situated in Mumbai
 (The website was taken down by them since their deal with the estate developers ended). 
 
 
+# Using this project
 
+Use this as a template if you need to develop a real estate websites, just change the image sources & the HTML text.  
 
 
 # Contributors
